@@ -8,3 +8,8 @@ Plane Detection: The app uses advanced computer vision algorithms to identify fl
 
 Virtual Dice Rolling: Users can place virtual dice on the detected plane and roll them by tapping the screen or using intuitive gestures. The dice respond to physics-based simulations, providing a realistic rolling experience. The result of each roll is displayed, making it easy for users to keep track of their game progress.
 
+<h5> In Actin <h5>
+
+
+https://github.com/smil-thakur/ARDice/assets/75114432/0479eaed-d15d-47e3-810f-47e9e4ad003d
+
